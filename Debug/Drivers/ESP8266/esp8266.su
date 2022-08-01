@@ -1,0 +1,7 @@
+../Drivers/ESP8266/esp8266.c:22:1:__io_putchar	16	static
+../Drivers/ESP8266/esp8266.c:29:9:Respones	32	static
+../Drivers/ESP8266/esp8266.c:50:6:HAL_UARTEx_RxEventCallback	16	static
+../Drivers/ESP8266/esp8266.c:64:9:sendCmd	24	static
+../Drivers/ESP8266/esp8266.c:80:6:sendNoAck	16	static
+../Drivers/ESP8266/esp8266.c:86:6:quitTrans	8	static
+../Drivers/ESP8266/esp8266.c:92:6:ESP8266_STA_init	8	static
